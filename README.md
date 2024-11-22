@@ -45,6 +45,14 @@ A simple and user-friendly diary application built using Python and Tkinter. Thi
 - Python 3.x
 - Tkinter (usually included with standard Python installations)
 
+
+## Screenshots
+
+<img width="1470" alt="Screenshot 2024-11-23 at 12 01 45 AM" src="https://github.com/user-attachments/assets/7d8ddbe7-d551-434c-a605-1467e963628c">
+
+<img width="1470" alt="Screenshot 2024-11-23 at 12 01 20 AM" src="https://github.com/user-attachments/assets/7c400bd7-03c8-46e0-b2d7-38436775dccb">
+
+
 ## Contributing
 
 1. Fork the repository.
